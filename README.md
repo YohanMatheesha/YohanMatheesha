@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Yohan</h1>
 <h3 align="center">"Turning Ideas into Real-World Web Solutions 🚀"</h3>
 
-- 🌱 I’m currently studying Full Stack Development at ICET **test**
+- 🌱 I’m currently studying Full Stack Development at ICET 
 
-- 👨‍💻 I’m passionate about Web Development and constantly learning new technologies **test**
+- 👨‍💻 I’m passionate about Web Development and constantly learning new technologies 
 
-- 🛠️ Currently working with Angular, Spring boot, React, and MySQL **test**
+- 🛠️ Currently working with Angular, Spring boot, React, and MySQL 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
